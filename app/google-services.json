@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484743690679",
+    "project_id": "emoquote-2ed29",
+    "storage_bucket": "emoquote-2ed29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484743690679:android:f9c8f2e20bb39c59645032",
+        "android_client_info": {
+          "package_name": "com.example.emoquote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD075dTUv4FhI8vDGwDiUqoHsAbiYt-tbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
